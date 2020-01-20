@@ -10,7 +10,7 @@ In the same project, I also participated in the design and testing of MCA hardwa
 
 The Isotope Identifier module is used to identify isotopes by means of a multi-channel graph analysis (Gamma Spectrometry) and to identify chemical elements by XRF (X-ray fluorescence).
 
-My aliases under which I posted modules in the software are: Tomy, the black star, 9A5TOM.
+My aliases under which I posted modules in the software are: Tomy, crnazvijezda, 9A5TOM.
 
 Project Homepage:
 https://www.theremino.com/en/downloads/radioactivity
