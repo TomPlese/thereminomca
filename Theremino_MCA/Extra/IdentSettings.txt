@@ -1,0 +1,13 @@
+IsotopeSuitTolerance,5000
+IsotopeCloseToTolerance,20000
+XRFSuitTolerance,200
+XRFCloseToTolerance,1000
+Kalpha1,1
+Kalpha2,1
+Kbeta1,1
+Lalpha1,1
+Lalpha2,1
+Lbeta1,1
+Lbeta2,1
+Lgamma1,1
+Malpha1,1
